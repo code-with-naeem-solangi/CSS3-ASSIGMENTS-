@@ -1,0 +1,24 @@
+div{
+    background-image: url(./images.jpg);
+    
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+.pragraph{
+    color: white;
+}
+.head{
+    color: black;
+}
+.head2{
+    color: black;
+}
+.p2{
+    background-image: url(./images.jpg);
+    width: 70%;
+    color: white;
+}

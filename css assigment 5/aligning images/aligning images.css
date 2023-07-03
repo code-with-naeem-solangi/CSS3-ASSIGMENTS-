@@ -1,0 +1,16 @@
+.img1{
+    margin-left: 15px;
+    float: left;
+    height: 50%; 
+}
+p{
+    padding-left: 0%;
+}
+.img2{
+    float: right;
+    margin-right: 20px;
+}
+p img{
+    width: 250px;
+    height: 250px;
+}

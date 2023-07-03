@@ -1,0 +1,26 @@
+.tr{
+    color: red;
+   
+}
+.main{
+    min-width: 464px;
+    max-width: 650px;
+    width: 50%;
+    margin: 50px;
+    display: flex;
+    
+}
+.one{
+    min-width: 464px;
+    max-width: 650px;
+    width: 50%;
+    margin: 50px;
+    display: flex;
+}
+.two{
+    min-width: 464px;
+    max-width: 650px;
+    width: 50%;
+    margin: 50px;
+    display: flex;
+}

@@ -1,0 +1,13 @@
+p{
+    width: 50%;
+}
+h2{
+    color: blue;
+    line-height: 1.2em;
+    border-bottom: 1px solid;
+}
+.one {
+    overflow: hidden;}
+
+.two {
+    overflow: scroll;}

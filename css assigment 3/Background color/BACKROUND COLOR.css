@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(200,200,200) ;
+}
+.head{
+    background-color: green;
+    width: 70%;
+    padding: 20px;
+}
+.head2{
+     width: 70%;
+    background-color: darkmagenta;
+    padding: 20px;
+}
+.pragraph{
+    background-color: white;
+    width: 70%;
+    padding: 30px;
+}

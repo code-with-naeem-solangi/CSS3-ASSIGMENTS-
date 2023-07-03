@@ -1,0 +1,11 @@
+.head{
+    color: red;
+}
+body{
+    color: rgb(74, 70, 70);
+}
+.main{
+    background-color: #efefef;
+    border: 2px solid;
+    padding: 20px;
+}
